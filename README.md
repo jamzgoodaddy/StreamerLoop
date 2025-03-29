@@ -1,2 +1,2 @@
 # StreamerLoop
-For liv streamin youtube
+For live streamin youtube
